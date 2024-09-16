@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.contido {
+    width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+
+}
+
+hr{
+    border: none; 
+    border-top: 1px solid;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+.h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.caixa {
+    border: 1px solid #000;
+    width: 200px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+.caixa-cabeçalho {
+    background-color: #00aeff;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.caixa-conteudo ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.caixa-conteudo ul li {
+    margin: 5px 0;
+
+}
+.p {
+    margin: 10px 0;
+    text-indent: 1.5rem;
+}
+
+.h2 {
+    margin-top: 30px;
+    font-size: 1.5rem;
+}
+
+.h3 {
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.vejamais {
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}

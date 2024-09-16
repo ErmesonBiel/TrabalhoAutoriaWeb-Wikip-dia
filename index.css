@@ -1,0 +1,96 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+
+.contido {
+    width: 900px;
+    padding: 20px;
+    margin-top: 180px;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    
+
+}
+
+.cabeçalho {
+    padding: 20px;
+    max-height: 80px;
+    height: 100px;
+    display: flex;
+    align-items: start;
+    padding: 10px 20px;
+}
+
+.cabeçalho img {
+    width: 50px;
+    height: auto;
+
+}
+
+hr{
+    width: 50%;         
+    height: 5px;        
+    background-color: #000;  
+    border: none;       
+    border-radius: 10px; 
+    margin: 20px auto;
+    
+    
+    
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.linguas {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.linguas img {
+    width: 750px;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.topicos {
+    margin-top: 30px;
+}
+
+.topicos p {
+    margin: 15px 0;
+    text-indent: 1.5rem;
+}
+
+.topicos a {
+    color: #0645ad;
+    text-decoration: none;
+}
+
+.topicos a:hover {
+    text-decoration: underline;
+}
+
+
+.vejamais {
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
